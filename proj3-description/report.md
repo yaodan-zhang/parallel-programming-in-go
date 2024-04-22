@@ -10,7 +10,7 @@ The program can be called by `cd editor/` and then `go run editor.go test s` for
 
 For this project, we generate the speedup graph for both running `parfiles` and `parslices` with a fixed set number of threads `T = {2,4,6,8,12}`, and for each `t` number of threads, the speedup is calculated by ${\text{program runtime using 1 thread}} \over {\text{program runtime using t threads}}$. The speedup graph is presented as follows:
 
-![speedup graph](./benchmark/speedup-image.png)
+![speedup graph](./speedup-image.png)
 
 ## Performance Analysis
 
