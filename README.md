@@ -5,7 +5,7 @@ This is a thorough repository that showcases the parallel programming projects I
    parallelization among images;
    parallelization among image chunks.
 
-2. The second project mimics a user's Twitter feed in managing his tweets
+2. The second project mimics a user's Twitter feed in managing his tweets,
    a producer-consumer environment is used such that parallelization is realized in the number of consumers.
 
 3. The third project reimplements the first project but uses a work-stealing confinement,
