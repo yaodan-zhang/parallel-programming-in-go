@@ -14,3 +14,5 @@ This is a thorough repository that showcases the parallel programming projects I
 
 Enjoy reading the report analysis as it is somewhat insightful in figuring out how parallelization can be used to speed up
 a program in some cases while not as expected in others.
+
+All project copyrights are reserved to MPCS52060 Parallel Programming from University of Chicago.
