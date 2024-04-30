@@ -1,11 +1,11 @@
 This is a thorough repository that showcases the parallel programming projects I did in Golang.
 
-1. The first project is an image processing task, with a comparison to different program speeds using
+1. The first project is an image processing task, with a comparison among different program speeds using
    no parallelization / sequential implementation;
    parallelization across images;
    parallelization across image chunks.
 
-2. The second project mimics a user's Twitter feed in managing his tweets, a producer-consumer environment is used such that parallelization is realized in the choice of the number of consumers.
+2. The second project mimics a user's Twitter feed in managing the tweets, and a producer-consumer environment is used such that parallelization is realized in the choice of the number of consumers.
 
 3. The third project reimplements the first project but uses a work-stealing confinement, that is, different threads have their own work queue getting filled with tasks by a producer, and if any of the queues is empty, the thread will try to randomly steal tasks from another thread.
 
