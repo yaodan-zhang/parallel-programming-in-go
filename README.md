@@ -1,4 +1,4 @@
-This is a thorough repository that showcases the parallel programming projects I did in Go.
+This repository showcases the parallel programming projects I did in Go.
 
 1. The first project is an image processing task, with a comparison among different program speeds using
    no parallelization / sequential implementation;
